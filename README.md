@@ -15,6 +15,12 @@ Welcome on my README.md, enjoy the stay :sunglasses:
 U can also check out my page by clicking in this link: https://mcmichalek.github.io  
 
 </br>
+Zestaw zadań 5 poniżej :
+
+Link do [artykułu](https://arxiv.org/ftp/arxiv/papers/0804/0804.4809.pdf)
+oraz do [repo](https://github.com/McMichalek/Eigen-Malloc-Free-Pseudoinverse)
+
+</br>
 
 :warning: The rest of it is still under construction... :no_entry:
 
